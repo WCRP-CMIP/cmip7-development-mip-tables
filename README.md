@@ -9,3 +9,9 @@ interested parties to develop against anticipated CMIP7 standards **on the under
 
 This repository will be removed when a suitable replacement has been produced.
 
+## Notes
+
+The construction notebook shows how the tables and coordinates file was constructed from information in the [CMIP7 data request](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) and that 
+in the [PCDMI/mip-cmor-tables](https://github.com/PCDMI/mip-cmor-tables) repositiory (used for CMIP6Plus).
+
+The cmor demo notebook uses these tables and runs through a simple example using the tables based on one of the unit tests in [PCDMI/cmor](https://github.com/PCDMI/cmor).
