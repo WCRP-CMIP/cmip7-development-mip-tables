@@ -24,7 +24,7 @@
         "source_id": "EC-Earth3-ESM-1-1"
     },
     "ICON-XPP-1-1-ED": {
-        "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1; hd-hydrological-discharge: h134; icon-land-1-1: h134; fesim2: h129",
+        "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; land-surface: icon-land-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1; fesim2: h129",
         "source_id": "ICON-XPP-1-1-ED"
     },
     "MRI-ESM3-4": {

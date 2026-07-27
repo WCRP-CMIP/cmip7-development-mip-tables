@@ -115,5 +115,15 @@
     "g214": "Horizontal grid cell with a regular latitude longitude grid type and 1.875 x 2.25 degree resolution.",
     "g215": "Horizontal grid cell with a regular latitude longitude grid type and 1.875 x 2.25 degree resolution.",
     "g216": "Horizontal grid cell with a tripolar grid type.",
+    "g217": "Horizontal grid cell with a plane projection grid type and 8 x 8 km resolution.",
+    "g218": "Horizontal grid cell with a plane projection grid type and 9.6 x 9.6 km resolution.",
+    "g219": "Horizontal grid cell with a displaced pole grid type and 1.0 x 0.5 degree resolution.",
+    "g220": "Horizontal grid cell with a displaced pole grid type and 0.5 x 0.25 degree resolution.",
+    "g221": "Horizontal grid cell with a displaced pole grid type and 0.5 x 0.25 degree resolution.",
+    "g222": "Horizontal grid cell with a regular latitude longitude grid type and 2.0 x 1.5 degree resolution.",
+    "g223": "Horizontal grid cell with a regular latitude longitude grid type and 2.0 x 1.5 degree resolution.",
+    "g224": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
+    "g225": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
+    "g226": "Horizontal grid cell with a tripolar grid type and 0.1 x 0.1 degree resolution.",
     "g999": ""
 }
