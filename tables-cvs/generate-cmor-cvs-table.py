@@ -904,7 +904,7 @@ def is_emd_grid_part(part: str) -> bool:
 
 def get_source_suffix_from_emd(drs_name: str) -> str:
     """
-    Get the ``source`` suffix for a given source ID from the Essential Model Documentation
+    Get the `source` suffix for a given source ID from the Essential Model Documentation
 
     We read the relevant model file directly from the EMD
     (see [`EMD_MODEL_BASE_URL`][]).
@@ -959,7 +959,7 @@ def get_source_suffix_from_emd(drs_name: str) -> str:
     dynamic_components = model_info.get("dynamic_components", [])
 
     source_l = []
-    for component in model_components:
+    for component in sorted(model_components):
         parts = component.split("_")
 
         # Strip off any trailing grid parts (e.g. "h125", "v40").
@@ -1002,7 +1002,7 @@ def get_cmor_source_id_definitions(
             try:
                 source_l.append(f"{mc.component}: {mc.name}")
             except AttributeError:
-                # Workaround while EMD models are broken
+                # Workaround while there aren't stable models in esgvoc
                 source_l.append(f"{mc['component']}: {mc['name']}")
 
         # Prefer the information from esgvoc,
