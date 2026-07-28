@@ -1698,7 +1698,7 @@
                 "source_id": "ACCESS-ESM1-6"
             },
             "AWI-ESM3-4-2-veg-HR": {
-                "source": "AWI-ESM3-4-2-veg-HR: atmosphere: openifs-48r1; ocean: fesom-2-7; land-surface: lpj-guess-4-1; sea-ice: fesim-2-7",
+                "source": "AWI-ESM3-4-2-veg-HR: atmosphere: openifs-48r1; land-surface: lpj-guess-4-1; ocean: fesom-2-7; sea-ice: fesim-2-7",
                 "source_id": "AWI-ESM3-4-2-veg-HR"
             },
             "CNRM-ESM2-1e": {
@@ -1706,31 +1706,31 @@
                 "source_id": "CNRM-ESM2-1e"
             },
             "CanESM5-1": {
-                "source": "CanESM5-1: atmosphere: canam5-1; aerosol: canam5-1-aerosol; land-surface: class-ctem-v3-6-2; ocean: cannemo5-1; ocean-biogeochemistry: cmoc; sea-ice: lim2",
+                "source": "CanESM5-1: aerosol: canam5-1-aerosol; atmosphere: canam5-1; land-surface: class-ctem-v3-6-2; ocean-biogeochemistry: cmoc; ocean: cannemo5-1; sea-ice: lim2",
                 "source_id": "CanESM5-1"
             },
             "CanESM6-0-MR": {
-                "source": "CanESM6-0-MR: atmosphere: canam6; aerosol: canam6-aerosol; land-surface: classicv1-5; ocean: cannemo6-0; ocean-biogeochemistry: cmoc; sea-ice: si3-cannemo",
+                "source": "CanESM6-0-MR: aerosol: canam6-aerosol; atmosphere: canam6; land-surface: classicv1-5; ocean-biogeochemistry: cmoc; ocean: cannemo6-0; sea-ice: si3-cannemo",
                 "source_id": "CanESM6-0-MR"
             },
             "EC-Earth3-ESM-1-1": {
-                "source": "EC-Earth3-ESM-1-1: atmosphere: ifs-cy36r4-l91; ocean: nemo-v3-6; land-surface: lpj-guess-4-1; land-ice: pism-v1-2-line; atmospheric-chemistry: co2box-v1-0",
+                "source": "EC-Earth3-ESM-1-1: atmosphere: ifs-cy36r4-l91; atmospheric-chemistry: co2box-v1-0; land-ice: pism-v1-2-line; land-surface: lpj-guess-4-1; ocean: nemo-v3-6",
                 "source_id": "EC-Earth3-ESM-1-1"
             },
             "ICON-XPP-1-1-ED": {
-                "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; land-surface: icon-land-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1; fesim2: h129",
+                "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; fesim2: h129; land-surface: icon-land-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
                 "source_id": "ICON-XPP-1-1-ED"
             },
             "MRI-ESM3-4": {
-                "source": "MRI-ESM3-4: atmosphere: mri-agcm4-4; aerosol: masingar-mk-3r2; atmospheric-chemistry: mri-ccm3-2; land-surface: mri-agcm4-4-land-surface; ocean: mricom-5-4; ocean-biogeochemistry: mricom-5-4-ocean-biogeochemistry; sea-ice: mricom-5-4-sea-ice",
+                "source": "MRI-ESM3-4: aerosol: masingar-mk-3r2; atmosphere: mri-agcm4-4; atmospheric-chemistry: mri-ccm3-2; land-surface: mri-agcm4-4-land-surface; ocean-biogeochemistry: mricom-5-4-ocean-biogeochemistry; ocean: mricom-5-4; sea-ice: mricom-5-4-sea-ice",
                 "source_id": "MRI-ESM3-4"
             },
             "UKCM2-0-LL": {
-                "source": "UKCM2-0-LL: aerosol: glomap-mode; sea-ice: si3-gosi9; ocean: nemo-gosi9; atmosphere: metum-ga9; land-surface: jules-gl9",
+                "source": "UKCM2-0-LL: aerosol: glomap-mode; atmosphere: metum-ga9; land-surface: jules-gl9; ocean: nemo-gosi9; sea-ice: si3-gosi9",
                 "source_id": "UKCM2-0-LL"
             },
             "UKCM2a-0-HH": {
-                "source": "UKCM2a-0-HH: atmosphere: metum-ga9a; aerosol: glomap-mode; land-surface: jules-gl9; ocean: nemo-gosi9; sea-ice: si3-gosi9",
+                "source": "UKCM2a-0-HH: aerosol: glomap-mode; atmosphere: metum-ga9a; land-surface: jules-gl9; ocean: nemo-gosi9; sea-ice: si3-gosi9",
                 "source_id": "UKCM2a-0-HH"
             }
         },
