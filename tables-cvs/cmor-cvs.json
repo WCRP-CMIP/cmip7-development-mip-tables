@@ -1559,6 +1559,7 @@
             "g224": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
             "g225": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
             "g226": "Horizontal grid cell with a tripolar grid type and 0.1 x 0.1 degree resolution.",
+            "g229": "Horizontal grid cell with a regular lat lon grid type and 4 x 4 km resolution.",
             "g999": ""
         },
         "horizontal_label": {
@@ -1716,6 +1717,10 @@
             "EC-Earth3-ESM-1-1": {
                 "source": "EC-Earth3-ESM-1-1: atmosphere: ifs-cy36r4-l91; atmospheric-chemistry: co2box-v1-0; land-ice: pism-v1-2-line; land-surface: lpj-guess-4-1; ocean: nemo-v3-6",
                 "source_id": "EC-Earth3-ESM-1-1"
+            },
+            "ICON-XPP-1-1": {
+                "source": "ICON-XPP-1-1: atmosphere: icon-a-1-1; fesim2: h129; icon-land-1-1: h130; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
+                "source_id": "ICON-XPP-1-1"
             },
             "ICON-XPP-1-1-ED": {
                 "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; fesim2: h129; land-surface: icon-land-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",

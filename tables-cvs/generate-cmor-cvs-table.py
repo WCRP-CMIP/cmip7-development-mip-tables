@@ -937,6 +937,8 @@ def get_source_suffix_from_emd(drs_name: str) -> str:
 
     # The EMD file names are the lower-cased source ID
     url = f"{EMD_MODEL_BASE_URL}/{drs_name.lower()}.json"
+    # potential bug: https://github.com/WCRP-CMIP/Essential-Model-Documentation/issues/1198
+    url = url.replace("icon-xpp-1-1.json", "icon-xpp-1.1.json")
     response = session.get(url, timeout=30)
     response.raise_for_status()
     model_info = response.json()
