@@ -126,5 +126,8 @@
     "g225": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
     "g226": "Horizontal grid cell with a tripolar grid type and 0.1 x 0.1 degree resolution.",
     "g229": "Horizontal grid cell with a regular lat lon grid type and 4 x 4 km resolution.",
+    "g230": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
+    "g231": "Horizontal grid cell with a cubed sphere grid type and 110 x 110 km resolution.",
+    "g232": "Horizontal grid cell with a stretched grid type and 1.25 x 1 degree resolution.",
     "g999": ""
 }
