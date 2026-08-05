@@ -1560,6 +1560,9 @@
             "g225": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
             "g226": "Horizontal grid cell with a tripolar grid type and 0.1 x 0.1 degree resolution.",
             "g229": "Horizontal grid cell with a regular lat lon grid type and 4 x 4 km resolution.",
+            "g230": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
+            "g231": "Horizontal grid cell with a cubed sphere grid type and 110 x 110 km resolution.",
+            "g232": "Horizontal grid cell with a stretched grid type and 1.25 x 1 degree resolution.",
             "g999": ""
         },
         "horizontal_label": {
@@ -1718,6 +1721,10 @@
                 "source": "EC-Earth3-ESM-1-1: atmosphere: ifs-cy36r4-l91; atmospheric-chemistry: co2box-v1-0; land-ice: pism-v1-2-line; land-surface: lpj-guess-4-1; ocean: nemo-v3-6",
                 "source_id": "EC-Earth3-ESM-1-1"
             },
+            "GFDL-ESM4p5": {
+                "source": "GFDL-ESM4p5: aerosol: gfdl-am4p5-fullchem; atmosphere: gfdl-am4p5; land-surface: gfdl-lm4p5; ocean-biogeochemistry: cobaltv3p1; ocean: gfdl-om4p5; sea-ice: sis2",
+                "source_id": "GFDL-ESM4p5"
+            },
             "ICON-XPP-1-1": {
                 "source": "ICON-XPP-1-1: atmosphere: icon-a-1-1; fesim2: h129; icon-land-1-1: h130; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
                 "source_id": "ICON-XPP-1-1"
@@ -1742,9 +1749,9 @@
                 "source": "UKCM2a-0-HH: aerosol: glomap-mode; atmosphere: metum-ga9a; land-surface: jules-gl9; ocean: nemo-gosi9; sea-ice: si3-gosi9",
                 "source_id": "UKCM2a-0-HH"
             },
-            "UKESM-1-3-LL": {
-                "source": "UKESM-1-3-LL: aerosol: glomap-mode; atmosphere: metum-ga7-1; atmospheric-chemistry: ukca; land-ice: bisicles-ukesm1-3; land-surface: jules-vn5-1; ocean-biogeochemistry: medusa2-0; ocean: nemo3-6; sea-ice: cice-gsi8",
-                "source_id": "UKESM-1-3-LL"
+            "UKESM1-3-LL": {
+                "source": "UKESM1-3-LL: aerosol: glomap-mode; atmosphere: metum-ga7-1; atmospheric-chemistry: ukca; land-ice: bisicles-ukesm1-3; land-surface: jules-vn5-1; ocean-biogeochemistry: medusa2-0; ocean: nemo3-6; sea-ice: cice-gsi8",
+                "source_id": "UKESM1-3-LL"
             }
         },
         "temporal_label": {
