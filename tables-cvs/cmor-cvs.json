@@ -1563,6 +1563,9 @@
             "g230": "Horizontal grid cell with a regular latitude longitude grid type and 1.25 x 1.0 degree resolution.",
             "g231": "Horizontal grid cell with a cubed sphere grid type and 110 x 110 km resolution.",
             "g232": "Horizontal grid cell with a stretched grid type and 1.25 x 1 degree resolution.",
+            "g234": "Horizontal grid cell with a cubed sphere grid type and 208 x 208 km resolution.",
+            "g235": "Horizontal grid cell with a reduced gaussian grid type and 100 x 100 km resolution.",
+            "g236": "Horizontal grid cell with a unstructured triangular grid type.",
             "g999": ""
         },
         "horizontal_label": {
@@ -1599,7 +1602,9 @@
             "MRI": "MRI (Meteorological Research Institute) conducts research for the improvement of information issued by JMA (Japan Meteorological Agency) on weather, earthquakes, volcanic activity, climatic conditions and other phenomena.",
             "NCAR": "The National Science Foundation National Center for Atmospheric Research (NSF NCAR) manages the development and maintenance of the Community Earth System Model (CESM).",
             "NCAS": "Uks",
+            "NCC": "NorESM Climate modeling Consortium (NCC) consists of Norwegian institutions MET-Norway, NORCE, NERSC, UiB, UiO, NILU and CICERO with a joint ambition to develop and maintain the Norwegian Earth System Model (NorESM) as a cutting-edge climate model and contribute to future Coupled Model Intercomparison Projects, climate assessment reports and scenario computations for climate services.",
             "NERC": "Natural Environment Research Council",
+            "NIMS-KMA": "The National Institute of Meteorological Sciences (NIMS) is the research institute of the Korea Meteorological Administration (KMA). NIMS conducts research in weather, climate, atmospheric science, and Earth system modeling, and develops climate model datasets for national and international research activities, including CMIP.",
             "NOAA-GFDL": "US National Oceanic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory.",
             "SMHI": "SMHI",
             "SYSU": "Sun Yat-sen University, a public university in Guangzhou, China.",
