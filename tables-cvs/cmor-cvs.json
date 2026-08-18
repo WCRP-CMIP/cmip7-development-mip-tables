@@ -1727,7 +1727,7 @@
                 "source_id": "EC-Earth3-ESM-1-1"
             },
             "GFDL-ESM4p5": {
-                "source": "GFDL-ESM4p5: aerosol: gfdl-am4p5-fullchem; atmosphere: gfdl-am4p5; land-surface: gfdl-lm4p5; ocean-biogeochemistry: cobaltv3p1; ocean: gfdl-om4p5; sea-ice: sis2",
+                "source": "GFDL-ESM4p5: aerosol: gfdl-am4p5-aerosol; atmosphere: gfdl-am4p5; land-surface: gfdl-lm4p5; ocean-biogeochemistry: cobaltv3p1; ocean: gfdl-om4p5; sea-ice: sis2",
                 "source_id": "GFDL-ESM4p5"
             },
             "ICON-XPP-1-1": {
