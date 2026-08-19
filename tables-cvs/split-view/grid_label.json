@@ -132,5 +132,6 @@
     "g234": "Horizontal grid cell with a cubed sphere grid type and 208 x 208 km resolution.",
     "g235": "Horizontal grid cell with a reduced gaussian grid type and 100 x 100 km resolution.",
     "g236": "Horizontal grid cell with a unstructured triangular grid type.",
-    "g999": ""
+    "g237": "Horizontal grid cell with a tripolar grid type and 0.25 x 0.25 degree resolution.",
+    "g238": "Horizontal grid cell with a unstructured triangular grid type."
 }
