@@ -1566,7 +1566,8 @@
             "g234": "Horizontal grid cell with a cubed sphere grid type and 208 x 208 km resolution.",
             "g235": "Horizontal grid cell with a reduced gaussian grid type and 100 x 100 km resolution.",
             "g236": "Horizontal grid cell with a unstructured triangular grid type.",
-            "g999": ""
+            "g237": "Horizontal grid cell with a tripolar grid type and 0.25 x 0.25 degree resolution.",
+            "g238": "Horizontal grid cell with a unstructured triangular grid type."
         },
         "horizontal_label": {
             "hm": "Data reported as a mean over some horizontal area.",
@@ -1604,12 +1605,12 @@
             "NCAS": "Uks",
             "NCC": "NorESM Climate modeling Consortium (NCC) consists of Norwegian institutions MET-Norway, NORCE, NERSC, UiB, UiO, NILU and CICERO with a joint ambition to develop and maintain the Norwegian Earth System Model (NorESM) as a cutting-edge climate model and contribute to future Coupled Model Intercomparison Projects, climate assessment reports and scenario computations for climate services.",
             "NERC": "Natural Environment Research Council",
-            "NIMS-KMA": "The National Institute of Meteorological Sciences (NIMS) is the research institute of the Korea Meteorological Administration (KMA). NIMS conducts research in weather, climate, atmospheric science, and Earth system modeling, and develops climate model datasets for national and international research activities, including CMIP.",
+            "NIMS-KMA": "The National Institute of Meteorological Sciences (NIMS) is the research institute of the Korea Meteorological Administration (KMA).",
             "NOAA-GFDL": "US National Oceanic and Atmospheric Administration's Geophysical Fluid Dynamics Laboratory.",
             "SMHI": "SMHI",
             "SYSU": "Sun Yat-sen University, a public university in Guangzhou, China.",
             "UAF": "University of Alaska Fairbanks",
-            "UKNCSP": "UKNCSP is a strategic partnership between the Met Office and six NERC-funded research centres in the UK. This partnership is consist of British Antarctic Survey(BAS), British Geological Survey(BGS), Met Office, National Centre for Atmospheric Science (NCAS), National Centre for Earth Observation(NCEO), National Oceanography Centre (NOC), UK Centre for Ecology & Hydrology (UKCEH) with a mission to unite and harness UK climate science capability, advance international partnerships, and drive solutions for a resilient, net-zero world.",
+            "UKNCSP": "UKNCSP is a strategic partnership between the Met Office and six NERC-funded research centres in the UK. This partnership consists of the British Antarctic Survey (BAS), British Geological Survey (BGS), Met Office, National Centre for Atmospheric Science (NCAS), National Centre for Earth Observation (NCEO), National Oceanography Centre (NOC) and UK Centre for Ecology & Hydrology (UKCEH), with a mission to unite and harness UK climate science capability, advance international partnerships, and drive solutions for a resilient, net-zero world.",
             "UNSW": "UNSW",
             "dlr": "The German Aerospace Center DLR is the Federal Republic of Germany's research centre for aviation, space, energy, transport, and security. The DLR Institute of Atmospheric Physics conducts research into the physics and chemistry of the global atmosphere, from the ground up to the upper edge of the middle atmosphere at an altitude of approximately 120 km."
         },
