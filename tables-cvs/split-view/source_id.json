@@ -7,6 +7,10 @@
         "source": "AWI-ESM3-4-2-veg-HR: atmosphere: openifs-48r1; land-surface: lpj-guess-4-1; ocean: fesom-2-7; sea-ice: fesim-2-7",
         "source_id": "AWI-ESM3-4-2-veg-HR"
     },
+    "CAS-ESM2-1-CSM": {
+        "source": "CAS-ESM2-1-CSM: aerosol: cam5-mam3; atmosphere: iap-agcm5-0; atmospheric-chemistry: cam5-trop-mam3; land-surface: colm2014; ocean: licom-v2-0; sea-ice: cice4-0",
+        "source_id": "CAS-ESM2-1-CSM"
+    },
     "CNRM-ESM2-1e": {
         "source": "CNRM-ESM2-1e: aerosol: TACTIC_v2; atmosphere: Arpege-Climat Version 6.3; atmospheric_chemistry: REPROBUS-C (v2.0); land_surface: SURFEX v8 modeling platform; ocean: NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA); ocean_biogeochemistry: Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas); sea_ice: GELATO",
         "source_id": "CNRM-ESM2-1e"
@@ -26,6 +30,10 @@
     "GFDL-ESM4p5": {
         "source": "GFDL-ESM4p5: aerosol: gfdl-am4p5-aerosol; atmosphere: gfdl-am4p5; land-surface: gfdl-lm4p5; ocean-biogeochemistry: cobaltv3p1; ocean: gfdl-om4p5; sea-ice: sis2",
         "source_id": "GFDL-ESM4p5"
+    },
+    "HadCM3B-ESM": {
+        "source": "HadCM3B-ESM: aerosol: hadcm3-aerosol; atmosphere: hadam3; land-surface: moses2-1; ocean-biogeochemistry: hadocc; ocean: hadom3; sea-ice: hadcm3-sea-ice",
+        "source_id": "HadCM3B-ESM"
     },
     "ICON-XPP-1-1": {
         "source": "ICON-XPP-1-1: atmosphere: icon-a-1-1; fesim2: h129; icon-land-1-1: h130; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
@@ -54,5 +62,9 @@
     "UKESM1-3-LL": {
         "source": "UKESM1-3-LL: aerosol: glomap-mode; atmosphere: metum-ga7-1; atmospheric-chemistry: ukca; land-ice: bisicles-ukesm1-3; land-surface: jules-vn5-1; ocean-biogeochemistry: medusa2-0; ocean: nemo3-6; sea-ice: cice-gsi8",
         "source_id": "UKESM1-3-LL"
+    },
+    "mcm-ua-1-0": {
+        "source": "mcm-ua-1-0: atmosphere: mcm-ua-1-0atmosphere; land-surface: mcm-ua-1-0land; ocean: mcm-ua-1-0ocean; sea-ice: mcm-ua-1-0seaice",
+        "source_id": "mcm-ua-1-0"
     }
 }
