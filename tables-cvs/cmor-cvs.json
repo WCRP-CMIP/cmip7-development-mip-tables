@@ -1741,11 +1741,11 @@
                 "source_id": "HadCM3B-ESM"
             },
             "ICON-XPP-1-1": {
-                "source": "ICON-XPP-1-1: atmosphere: icon-a-1-1; fesim2: h129; icon-land-1-1: h130; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
+                "source": "ICON-XPP-1-1: atmosphere: icon-a-1-1; land-surface: icon-land-1-1; ocean-biogeochemistry: ihamocc2; ocean: icon-o-1-1; sea-ice: fesim2",
                 "source_id": "ICON-XPP-1-1"
             },
             "ICON-XPP-1-1-ED": {
-                "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; fesim2: h129; land-surface: icon-land-1-1; ocean-biogeochemistry: hamocc; ocean: icon-o-1-1",
+                "source": "ICON-XPP-1-1-ED: atmosphere: icon-a-1-1; land-surface: icon-land-1-1; ocean-biogeochemistry: ihamocc2; ocean: icon-o-1-1; sea-ice: fesim2",
                 "source_id": "ICON-XPP-1-1-ED"
             },
             "KACE-2-0-G": {
